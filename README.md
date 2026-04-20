@@ -1,7 +1,7 @@
 # Practicum Project: Association of Physical Activity and Joint Space Width
 
 ## Project Overview
-This project investigates the association between physical activity intensity and joint health, measured by **Joint Space Width (JSW)**, using accelerometer data.
+This project investigates the association between **physical activity intensity** and joint health, measured by **Joint Space Width (JSW)**, using accelerometer data.
 The goal is to identify **critical intensity ranges** where activity has the strongest association with joint structure.
 
 ---

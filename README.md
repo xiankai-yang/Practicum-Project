@@ -34,7 +34,7 @@ The goal is to identify **critical intensity ranges** where activity has the str
 
 ---
 
-## 📖 How to Read This Repository
+## How to Read This Repository
 This repository is organized to guide the reader from research motivation to modeling and results.
 For first-time readers, it is recommended to follow the structure below:
 1. **Start with `01_Project Overview/`**  

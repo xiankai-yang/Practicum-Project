@@ -29,21 +29,21 @@ The goal is to identify **critical intensity ranges** where activity has the str
 
 ---
 
-## 🧪 Statistical Validation
+## Statistical Validation
 - Permutation test applied
 - Results show statistically significant improvement of the two-segment model (K=2)
 - Supports the presence of a non-linear relationship
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - Observational data (no causal interpretation)
 - Segmentation may vary across samples
 - Limited adjustment for confounders
 
 ---
 
-## 🚀 Future Work
+## Future Work
 - Incorporate confounders (age, sex, BMI, baseline joint health)
 - Test robustness via bootstrap and subgroup analysis
 - Explore longitudinal data

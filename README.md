@@ -37,16 +37,16 @@ The goal is to identify **critical intensity ranges** where activity has the str
 ## How to Read This Repository
 This repository is organized to guide the reader from research motivation to modeling and results.
 For first-time readers, it is recommended to follow the structure below:
-1. **Start with `01_Project Overview/`**  
+1. **Start with `01_Project_Overview/`**  
    - Read `01_01_Abstract.pdf` for a high-level summary of the research question, motivation, and key findings.
-2. **Explore `04_Slides for process/`**  
+2. **Explore `04_Slides_for_Process/`**  
    - These slides provide an intuitive explanation of the workflow, including data processing, OTC/AUC construction, and model development.
 3. **Review `02_Codes/`**  
    - `02_01_Data Overview & OTC, AUC...` explains how raw accelerometer data are transformed into model-ready features.  
    - `02_02_testing.R` contains implementation and testing of the modeling approach.
-4. **Check `03_Model Ready Data/`**  
+4. **Check `03_Model_Ready_Data/`**  
    - These datasets (`J = 60, 100, 200`) are the processed inputs used in the modeling stage.
-5. **View `05_Presetation Slides/`**  
+5. **View `05_Presetation_Slides/`**  
    - Final presentation materials summarizing the results and interpretation.
 6. **See `06_Reference/`**  
    - Supporting literature and reference materials.
@@ -58,11 +58,11 @@ For a deeper understanding, follow the full sequence above.
 
 ## Project Structure
 
-- **01_Project Overview/**
+- **01_Project_Overview/**
   - `01_01_Abstract.pdf`  
     High-level summary of the research motivation, objectives, and key findings
 - **02_Codes/**
-  - `02_01_Data Overview & OTC, AUC...`  
+  - `02_01_Data_Overview_and_OTC_AUC...`  
     Data preprocessing and construction of OTC and AUC features
   - `02_02_testing.R`  
     Implementation and testing of the modeling approach
@@ -71,17 +71,17 @@ For a deeper understanding, follow the full sequence above.
   - `03_02_oai_rep_J=100.csv`  
   - `03_03_oai_rep_J=200.csv`  
     Processed datasets used for model fitting under different discretizations
-- **04_Slides for process/**
-  - `04_01_Slides for process_1.pdf`  
-  - `04_02_Slides for process_2.pdf`  
-  - `04_03_Slides for process_3.pdf`  
+- **04_Slides_for_Process/**
+  - `04_01_Slides_for_Process_1.pdf`  
+  - `04_02_Slides_for_Process_2.pdf`  
+  - `04_03_Slides_for_Process_3.pdf`  
     Intermediate slides documenting data processing and model development
-- **05_Presentation Slides/**
+- **05_Presentation_Slides/**
   - `05_01_PPT_first.pdf`  
   - `05_02_PPT_second.pptx`  
     Final presentation materials summarizing results and interpretation
 - **06_Reference/**
-  - `06_01_Reference List.pdf`  
+  - `06_01_Reference_List.pdf`  
     Supporting literature and reference materials
 - **README.md**  
   Project overview and navigation guide

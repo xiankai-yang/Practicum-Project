@@ -42,7 +42,7 @@ For first-time readers, it is recommended to follow the structure below:
 2. **Explore `04_Slides_for_Process/`**  
    - These slides provide an intuitive explanation of the workflow, including data processing, OTC/AUC construction, and model development.
 3. **Review `02_Codes/`**  
-   - `02_01_Data Overview & OTC, AUC...` explains how raw accelerometer data are transformed into model-ready features.  
+   - `02_01_Data_Overview_and...` explains how raw accelerometer data are transformed into model-ready features.  
    - `02_02_testing.R` contains implementation and testing of the modeling approach.
 4. **Check `03_Model_Ready_Data/`**  
    - These datasets (`J = 60, 100, 200`) are the processed inputs used in the modeling stage.
@@ -62,7 +62,7 @@ For a deeper understanding, follow the full sequence above.
   - `01_01_Abstract.pdf`  
     High-level summary of the research motivation, objectives, and key findings
 - **02_Codes/**
-  - `02_01_Data_Overview_and_OTC_AUC...`  
+  - `02_01_Data_Overview_and...`  
     Data preprocessing and construction of OTC and AUC features
   - `02_02_testing.R`  
     Implementation and testing of the modeling approach
